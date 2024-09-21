@@ -9,4 +9,5 @@ I am a **Python developer** with an engineering background and experience with *
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ## 🏆 Achievements and activity:
+# ![Codewars Badge](https://www.codewars.com/users/DanilKhmyrov/badges/large)
 ![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=DanilKhmyrov&layout=compact)
