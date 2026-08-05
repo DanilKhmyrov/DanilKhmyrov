@@ -27,6 +27,10 @@ I'm a **Python developer with an engineering background**, specializing in **cry
 ![NEAR](https://img.shields.io/badge/NEAR-0d1117?style=flat-square&logo=near&logoColor=ffffff)
 ![SUI](https://img.shields.io/badge/SUI-0d1117?style=flat-square&logo=sui&logoColor=4DA2FF)
 ![OP](https://img.shields.io/badge/OP-0d1117?style=flat-square&logo=optimism&logoColor=FF0420)
+![DOT](https://img.shields.io/badge/DOT-0d1117?style=flat-square&logo=polkadot&logoColor=E6007A)
+![IOST](https://img.shields.io/badge/IOST-0d1117?style=flat-square)
+![BASE](https://img.shields.io/badge/BASE-0d1117?style=flat-square)
+![LINEA](https://img.shields.io/badge/LINEA-0d1117?style=flat-square)
 
 
 ## 🧰 Languages & Tools
@@ -34,14 +38,19 @@ I'm a **Python developer with an engineering background**, specializing in **cry
 ![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
 ![JavaScript](https://img.shields.io/badge/JS-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TS-0d1117?style=flat-square&logo=typescript&logoColor=3178C6)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/CSS-0d1117?style=flat-square&logo=css&logoColor=663399)
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1)
 ![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=4479A1)
 ![Nginx](https://img.shields.io/badge/Nginx-0d1117?style=flat-square&logo=nginx&logoColor=009639)
 ![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F03C2E)
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS](https://img.shields.io/badge/CSS-0d1117?style=flat-square&logo=css&logoColor=663399)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-0d1117?style=flat-square&logo=bootstrap&logoColor=7952B3)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=009688)
+![Redis](https://img.shields.io/badge/Redis-0d1117?style=flat-square&logo=redis&logoColor=FF4438)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-0d1117?style=flat-square&logo=rabbitmq&logoColor=FF6600)
+![WebSocket](https://img.shields.io/badge/WebSocket-0d1117?style=flat-square)
+![aiogram](https://img.shields.io/badge/aiogram-0d1117?style=flat-square)
+![ccxt](https://img.shields.io/badge/ccxt-0d1117?style=flat-square)
 
 
 ## 📬 Connect
